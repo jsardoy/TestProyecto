@@ -10,7 +10,7 @@ THE PROGRAM
 <br />
 SUM RES: <? echo sum(4,6); ?> <br />
 MULT RES: <? echo multiply(4,6); ?> <br />
-
+DIVISION RES: <? echo dividir(4,6); ?> <br />
 <hr />
 Version Release: <? echo VERSION; ?>
 </body>
