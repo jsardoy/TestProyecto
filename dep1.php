@@ -1,5 +1,6 @@
 <?
 function resta(){
+	return 1;
 }
 function sum($n,$n2){
 	return $n+$n2;
